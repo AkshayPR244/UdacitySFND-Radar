@@ -28,4 +28,9 @@ This was done throught sclicing the output such that we have the surrounding row
 `RDM(:,union(1:(Td+Gd),end-(Td+Gd-1):end)) = 0;  % Columns`
 
 ## Output:
+This is the output for a target at 150m moving at -50 m/s relative speed<br><br>
+![alt text](https://github.com/AkshayPR244/UdacitySFND-Radar/blob/main/Range_from_1D_FFT.png)
 
+![alt text](https://github.com/AkshayPR244/UdacitySFND-Radar/blob/main/RangeSpeed_from_2D_FFT.png)
+
+![alt text](https://github.com/AkshayPR244/UdacitySFND-Radar/blob/main/CA_CFAR_2D.png)
