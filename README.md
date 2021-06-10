@@ -29,8 +29,12 @@ This was done throught sclicing the output such that we have the surrounding row
 
 ## Output:
 This is the output for a target at 150m moving at -50 m/s relative speed<br><br>
+
+### Range from 1D FFT
 ![alt text](https://github.com/AkshayPR244/UdacitySFND-Radar/blob/main/Range_from_1D_FFT.png)
 
+### Range and Speed from 2D FFT
 ![alt text](https://github.com/AkshayPR244/UdacitySFND-Radar/blob/main/RangeSpeed_from_2D_FFT.png)
 
+### Output from Cell Averaging CFAR on 2D FFT
 ![alt text](https://github.com/AkshayPR244/UdacitySFND-Radar/blob/main/CA_CFAR_2D.png)
